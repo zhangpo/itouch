@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chinese</key>
+	<dict>
+		<key>Additions</key>
+		<string>附加项</string>
+		<key>Send Succeeded</key>
+		<string>发送成功</string>
+		<key>Send Failed</key>
+		<string>发送失败</string>
+		<key>Additions:</key>
+		<string>附加项:</string>
+		<key>AdditionsConfiguration</key>
+		<string>附加项设置</string>
+		<key>Back</key>
+		<string>返回</string>
+		<key>Type:</key>
+		<string>类型:</string>
+		<key>All</key>
+		<string>全部</string>
+		<key>Print</key>
+		<string>打印</string>
+		<key>Table:</key>
+		<string>台位:</string>
+		<key>Area</key>
+		<string>区域</string>
+		<key>Floor</key>
+		<string>楼层</string>
+		<key>Change Table Succeed</key>
+		<string>换台成功</string>
+		<key>Cancel Table Succeed</key>
+		<string>取消开台成功</string>
+		<key>Cancel Table Failed</key>
+		<string>取消开台失败</string>
+		<key>Status</key>
+		<string>状态</string>
+		<key>QUERY</key>
+		<string>查询单</string>
+		<key>Print Query Succeed</key>
+		<string>打印查询单</string>
+		<key>TAB</key>
+		<string>结账单</string>
+		<key>ACCOUNT</key>
+		<string>自动打印查询单</string>
+		<key>Cancel</key>
+		<string>取消</string>
+		<key>Send Now</key>
+		<string>即起上传</string>
+		<key>Cancel Table</key>
+		<string>取消开台</string>
+		<key>Reason:</key>
+		<string>原因</string>
+		<key>Send Order</key>
+		<string>发送菜品</string>
+		<key>User and Password could not be empty</key>
+		<string>工号或密码不能为空</string>
+		<key>User or Password or Table could not be empty</key>
+		<string>工号或台号不能为空</string>
+		<key>User could not be empty</key>
+		<string>工号不能为空</string>
+		<key>Please type again and retry</key>
+		<string>请重新输入后重试</string>
+		<key>Send Hold</key>
+		<string>叫起发送</string>
+		<key>From Table:</key>
+		<string>当前台位:</string>
+		<key>To Table:</key>
+		<string>目标台位:</string>
+		<key>ChuckFailed</key>
+		<string>退菜失败</string>
+		<key>People:</key>
+		<string>人数</string>
+		<key>ChuckSucceed</key>
+		<string>退菜成功</string>
+		<key>List Table</key>
+		<string>查询台位</string>
+		<key>User:</key>
+		<string>工号:</string>
+		<key>Password:</key>
+		<string>密码:</string>
+		<key>Area:</key>
+		<string>区域:</string>
+		<key>Floor:</key>
+		<string>楼层:</string>
+		<key>Change Table</key>
+		<string>换台</string>
+		<key>Chuck</key>
+		<string>退菜</string>
+		<key>Common Additions</key>
+		<string>公共附加项</string>
+		<key>Table Operation</key>
+		<string>台位操作</string>
+		<key>CommonAdditions:</key>
+		<string>公共附加项:</string>
+		<key>Count</key>
+		<string>数量</string>
+		<key>Count:</key>
+		<string>数量：</string>
+		<key>Date</key>
+		<string>日期</string>
+		<key>DATE</key>
+		<string>日期</string>
+		<key>Date:</key>
+		<string>日期:</string>
+		<key>DATE:</key>
+		<string>日期: %@</string>
+		<key>DeleteAll</key>
+		<string>删除所有</string>
+		<key>Detail</key>
+		<string>详情</string>
+		<key>Edit</key>
+		<string>编辑</string>
+		<key>EditAdditions</key>
+		<string>编辑附加项</string>
+		<key>Error</key>
+		<string>错误</string>
+		<key>Food Ordered</key>
+		<string>菜品已经被添加</string>
+		<key>FoodName</key>
+		<string>品名</string>
+		<key>Gogo</key>
+		<string>催菜</string>
+		<key>GogoAlert</key>
+		<string>请选择要催的菜!</string>
+		<key>Change Table Failed</key>
+		<string>换台失败</string>
+		<key>GogoFailed</key>
+		<string>催菜失败</string>
+		<key>GogoSucceed</key>
+		<string>催菜成功</string>
+		<key>Info</key>
+		<string>资料</string>
+		<key>LangCode</key>
+		<string>cn</string>
+		<key>LanguageChangedMessage</key>
+		<string>语言被更改,cMenu即将关闭以使更改生效，请重新打开cMenu.</string>
+		<key>LanguageChangedTitle</key>
+		<string>cMenu即将关闭</string>
+		<key>Loading %@</key>
+		<string>正在载入 %@</string>
+		<key>Min</key>
+		<string>分钟</string>
+		<key>minutes</key>
+		<string>分钟</string>
+		<key>More</key>
+		<string>更多</string>
+		<key>NetworkFailedMessage</key>
+		<string>无法连接到服务器，请检查连接</string>
+		<key>NetworkFailedOK</key>
+		<string>确定</string>
+		<key>NetworkFailedTitle</key>
+		<string>抱歉</string>
+		<key>News</key>
+		<string>新闻</string>
+		<key>NoEntry</key>
+		<string>抱歉,没有可用内容</string>
+		<key>NoFoodOrderedAlert</key>
+		<string>没有已点菜品，请先点菜再发送菜品</string>
+		<key>NoFoodToChuckAlert</key>
+		<string>请选择要退的菜!</string>
+		<key>OK</key>
+		<string>确定</string>
+		<key>OrderedFood</key>
+		<string>已点菜品</string>
+		<key>Price</key>
+		<string>价格</string>
+		<key>PrintFailed</key>
+		<string>单据打印失败</string>
+		<key>PrintQuery</key>
+		<string>打印单据</string>
+		<key>PrintSucceed</key>
+		<string>单据打印成功</string>
+		<key>QueryBill</key>
+		<string>查询账单</string>
+		<key>QueryTitle</key>
+		<string>共点菜品: %d 道     总计:￥%.2f     附加项:￥%.2f</string>
+		<key>QueryTitle2</key>
+		<string>共点菜品: %d 道     总计:￥%.2f    账单号:%@</string>
+		<key>Price2</key>
+		<string>价格：%.2f</string>
+		<key>Price3</key>
+		<string>价格：%.2f%@</string>
+		<key>Send</key>
+		<string>发送</string>
+		<key>Subtotal</key>
+		<string>小计</string>
+		<key>This feature is unavailable with your current version of the application.</key>
+		<string>当前程序版本暂不支持此功能。</string>
+		<key>Total</key>
+		<string>总共</string>
+		<key>Table</key>
+		<string>台位</string>
+		<key>Unit</key>
+		<string>单位</string>
+		<key>VALUE</key>
+		<string>价值</string>
+		<key>Value</key>
+		<string>价值</string>
+		<key>ManualInput</key>
+		<string>手动输入</string>
+		<key>LogOut</key>
+		<string>注销当前用户</string>
+		<key>LogIn</key>
+		<string>登陆</string>
+		<key>OrderDishes</key>
+		<string>点菜</string>
+		<key>Search</key>
+		<string>查询</string>
+		<key>ServerSettings</key>
+		<string>服务器设置</string>
+		<key>Please enter the ramadhin</key>
+		<string>请输入桌号</string>
+		<key>Please enter the account</key>
+		<string>请先登录</string>
+		<key>Food</key>
+		<string>已点菜品</string>
+		<key>Menu</key>
+		<string>菜单</string>
+		<key>Are uploading Food</key>
+		<string>正在上传菜品</string>
+		<key>Order Succeeded</key>
+		<string>添加成功</string>
+		<key>Search Table Failed</key>
+		<string>查询台位失败</string>
+		<key>Without the permission</key>
+		<string>无此权限</string>
+		<key>Table error</key>
+		<string>台号错误</string>
+		<key>No out of stock ，Are uploading Food</key>
+		<string>菜品没有沽清，正在上传菜品</string>
+		<key>Delete</key>
+		<string>删除</string>
+		<key>Details:</key>
+		<string>详细:</string>
+		<key>total2</key>
+		<string>合计：%.2f</string>
+		<key>Package Detail</key>
+		<string>套餐详细</string>
+		<key>Replaceable</key>
+		<string>可更换菜品明细</string>
+		<key>update</key>
+		<string>更新</string>
+		<key>Being updated recipe</key>
+		<string>正在更新菜谱</string>
+		<key>Update complete</key>
+		<string>更新完成</string>
+		<key>Service address</key>
+		<string>服务器地址</string>
+		<key>UserName</key>
+		<string>用户名</string>
+		<key>PassWord</key>
+		<string>密码</string>
+		<key>Port</key>
+		<string>端口</string>
+		<key>Whether need to send</key>
+		<string>是否需要发送</string>
+		<key>Whether the order login</key>
+		<string>是否账单登陆</string>
+		<key>Please enter the modify the content</key>
+		<string>请输入修改内容</string>
+		<key>restart</key>
+		<string>设置成功！重启程序后生效！</string>
+		<key>Being updated</key>
+		<string>正在更新</string>
+		<key>get the order</key>
+		<string>正在获取账单</string>
+		<key>Query the order failed</key>
+		<string>查询账单失败</string>
+		<key>Table could not be empty</key>
+		<string>台号不能为空</string>
+		<key>addFood</key>
+		<string>加菜</string>
+		<key>Get ramadhin</key>
+		<string>正在获取台位</string>
+		<key>Query Table Fail</key>
+		<string>查询台位失败</string>
+		<key>Open Table success! OrderID</key>
+		<string>开台成功，账单流水号为:%@</string>
+		<key>empty table</key>
+		<string>空台</string>
+		<key>This with empty table</key>
+		<string>此台位是空台，是否开台？</string>
+		<key>isCancel Table</key>
+		<string>是否取消开台？</string>
+		<key>YES</key>
+		<string>是</string>
+		<key>NO</key>
+		<string>否</string>
+		<key>Open Table</key>
+		<string>开台</string>
+		<key>Man</key>
+		<string>先生：</string>
+		<key>Woman</key>
+		<string>女士：</string>
+		<key>People number</key>
+		<string>就餐人数：%@</string>
+		<key>empty</key>
+		<string>空闲</string>
+		<key>Open table none food</key>
+		<string>开台未点</string>
+		<key>Open table food</key>
+		<string>开台已点</string>
+		<key>Food full</key>
+		<string>菜齐</string>
+		<key>The invoicing</key>
+		<string>结账</string>
+		<key>Number of available</key>
+		<string>可售数量</string>
+		<key>sending food</key>
+		<string>正在发送菜品</string>
+		<key>isOpenTable</key>
+		<string>请确认是否开台</string>
+		<key>number or password</key>
+		<string>请输入完整的“员工编号”和“密码”</string>
+		<key>prompt</key>
+		<string>提示</string>
+		<key>Please set the server</key>
+		<string>请设置服务器</string>
+		<key>equipment number</key>
+		<string>请输入设备编号</string>
+		<key>Login Successed</key>
+		<string>登陆成功</string>
+		<key>Registration failed</key>
+		<string>注册失败</string>
+		<key>Logon failure</key>
+		<string>登陆失败</string>
+		<key>In the login</key>
+		<string>正在登陆...</string>
+		<key>Logout...</key>
+		<string>正在注销...</string>
+		<key>No order</key>
+		<string>没有账单</string>
+		<key>physical code</key>
+		<string>物理编号</string>
+		<key>equipment code</key>
+		<string>设备编号</string>
+		<key>Equipment registration</key>
+		<string>设备注册</string>
+		<key>Search Conform</key>
+		<string>共%d符合条件</string>
+		<key>combine Table Succeed</key>
+		<string>并台成功</string>
+		<key>combine Table Failed</key>
+		<string>并台失败</string>
+		<key>combine Table</key>
+		<string>并台</string>
+		<key>major Table</key>
+		<string>主台位:</string>
+		<key>minor Table</key>
+		<string>副台位:</string>
+		<key>equipotential</key>
+		<string>等位</string>
+		<key>Push Food</key>
+		<string>催菜</string>
+		<key>Elide Food</key>
+		<string>划菜</string>
+		<key>QueryTitle4</key>
+		<string>账单号:%@</string>
+		<key>tableNum</key>
+		<string>桌号:%@</string>
+		<key>allPrice</key>
+		<string>%@单品,%@套餐,共计:%@ 附加项:%@</string>
+		<key>sound</key>
+		<string>是否开启声音</string>
+		<key>Count1</key>
+		<string>数量：%@</string>
+		<key>addCount</key>
+		<string>共计：%.2f</string>
+		<key>sellout</key>
+		<string>沽清</string>
+		<key>addWait</key>
+		<string>添加</string>
+		<key>phone</key>
+		<string>手机号码</string>
+		<key>phone2:</key>
+		<string>手机号码:</string>
+		<key>waitNum</key>
+		<string>等位编号</string>
+		<key>Wait</key>
+		<string>等位预点</string>
+		<key>Message</key>
+		<string>消息</string>
+		<key>phone:</key>
+		<string>手机：</string>
+		<key>push</key>
+		<string>正在催菜</string>
+		<key>Being queried</key>
+		<string>正在查询...</string>
+		<key>WaitSuccess</key>
+		<string>账单号：%@，等位序号：%@     是否预点餐</string>
+		<key>WaitSuccess1</key>
+		<string>预定成功</string>
+		<key>Being Delete</key>
+		<string>正在删除...</string>
+		<key>change order</key>
+		<string>该账单没有预点菜品，是否转为正式单</string>
+		<key>ChangeTable</key>
+		<string>预定台位转台</string>
+		<key>SuccessRefresh</key>
+		<string>成功！正在刷新</string>
+		<key>Please enter the target ramadhin</key>
+		<string>请输入目标台位</string>
+		<key>Wait order details</key>
+		<string>预点餐详情</string>
+		<key>The permanent Table</key>
+		<string>转正式台位</string>
+		<key>Phone and table could not be empty</key>
+		<string>手机号和桌号不能为空</string>
+		<key>phone and people could not be empty</key>
+		<string>手机号和人数不能为空</string>
+		<key>people could not be empty</key>
+		<string>人数不能为空</string>
+		<key>Phone error</key>
+		<string>手机号错误</string>
+		<key>phone could not be empty</key>
+		<string>手机号不能为空</string>
+		<key>network connection timeout</key>
+		<string>网络连接超时</string>
+		<key>network timeout</key>
+		<string>网络连接超时,请检验设备的IP地址是否设置正确</string>
+		<key>Server timeout</key>
+		<string>服务器超时</string>
+		<key>Network link error</key>
+		<string>请检查网络链接或ftp设置是否正确</string>
+		<key>server not open</key>
+		<string>IPAD服务端未开启</string>
+		<key>More words</key>
+		<string>超过最大字数不能输入了</string>
+		<key>number zero</key>
+		<string>总人数必须大于0</string>
+		<key>The same as the target the same not the same</key>
+		<string>当前台位与目标台位不能相同</string>
+		<key>Master station and vice same not the same</key>
+		<string>主台位和副台位不能相同</string>
+		<key>Maximum input 10</key>
+		<string>最大只能输入10位</string>
+		<key>Didn&apos;t have some food</key>
+		<string>没有已点菜品</string>
+		<key>Cross food quantity</key>
+		<string>划菜数量</string>
+		<key>Most strokes vegetables</key>
+		<string>最多可划%d份</string>
+		<key>The total number of not greater than 99</key>
+		<string>总人数不能大于99</string>
+		<key>Version updated FTP synchronize data</key>
+		<string>数据版本已更新，是否FTP同步数据</string>
+		<key>Update the version number failed</key>
+		<string>更新版本号失败</string>
+		<key>version number</key>
+		<string>版本号</string>
+		<key>order not food</key>
+		<string>该账单没有点菜</string>
+		<key>Too many to send</key>
+		<string>发送菜品数量过多，请分开发送</string>
+		<key>reCallElide</key>
+		<string>反划</string>
+		<key>Special note</key>
+		<string>特别备注：</string>
+		<key>Please enter the second unit</key>
+		<string>请输入第二单位</string>
+		<key>The second unit are not increased in the food</key>
+		<string>第二单位菜品不能在此改变份数</string>
+		<key>chuck</key>
+		<string>退菜</string>
+		<key>user code</key>
+		<string>授权工号:</string>
+		<key>settleaccount</key>
+		<string>预结算</string>
+		<key>VIP</key>
+		<string>会员</string>
+		<key>momey</key>
+		<string>现金</string>
+		<key>bank card</key>
+		<string>银行卡</string>
+		<key>favorable</key>
+		<string>优惠方式</string>
+		<key>print</key>
+		<string>打印</string>
+		<key>FoodCache</key>
+		<string>菜品缓存</string>
+		<key>boark</key>
+		<string>销售看板</string>
+		<key>refresh</key>
+		<string>刷洗</string>
+	</dict>
+	<key>English</key>
+	<dict>
+		<key>Additions</key>
+		<string>Condiment</string>
+		<key>Additions:</key>
+		<string>Condiments:</string>
+		<key>AdditionsConfiguration</key>
+		<string>Choose Condiment</string>
+		<key>ADOP</key>
+		<string>ADVANCED OPTIONS</string>
+		<key>Table</key>
+		<string>Table</string>
+		<key>Back</key>
+		<string>Back</string>
+		<key>Cancel</key>
+		<string>Cancel</string>
+		<key>ChuckFailed</key>
+		<string>Void Failed</string>
+		<key>ChuckSucceed</key>
+		<string>Void Succeed</string>
+		<key>Chuck</key>
+		<string>Voidk</string>
+		<key>Common Additions</key>
+		<string>Common Condiments</string>
+		<key>CommonAdditions:</key>
+		<string>Commond Condiments:</string>
+		<key>Count</key>
+		<string>Count</string>
+		<key>Count:</key>
+		<string>Count:</string>
+		<key>Date</key>
+		<string>Date</string>
+		<key>DATE</key>
+		<string>DATE</string>
+		<key>Date:</key>
+		<string>Date:</string>
+		<key>DATE:</key>
+		<string>DATE: %@</string>
+		<key>DeleteAll</key>
+		<string>Delete All</string>
+		<key>Detail</key>
+		<string>Detail</string>
+		<key>Down:</key>
+		<string>Down:</string>
+		<key>Edit</key>
+		<string>Edit</string>
+		<key>EditAdditions</key>
+		<string>Edit Condiments</string>
+		<key>Error</key>
+		<string>Error</string>
+		<key>Food Ordered</key>
+		<string>Item Ordered</string>
+		<key>FoodName</key>
+		<string>Name</string>
+		<key>Gogo</key>
+		<string>Chase</string>
+		<key>GogoAlert</key>
+		<string>Please select the food you want to chase</string>
+		<key>GogoFailed</key>
+		<string>Chase send failed</string>
+		<key>GogoSucceed</key>
+		<string>Chase send succeed</string>
+		<key>Info</key>
+		<string>Info</string>
+		<key>LangCode</key>
+		<string>en</string>
+		<key>LanguageChangedMessage</key>
+		<string>Your language settings have been changed. Please select “OK” and restart the cMenu app for the change to take effect.</string>
+		<key>LanguageChangedTitle</key>
+		<string>cMenu App Closing</string>
+		<key>Loading %@</key>
+		<string>Loading %@</string>
+		<key>NoFoodOrderedAlert</key>
+		<string>No food ordered,please order first.</string>
+		<key>NoFoodToChuckAlert</key>
+		<string>Please select the food you want to void</string>
+		<key>OK</key>
+		<string>OK</string>
+		<key>Open:</key>
+		<string>Open:</string>
+		<key>OrderedFood</key>
+		<string>Ordered Items</string>
+		<key>Price</key>
+		<string>Price</string>
+		<key>PrintFailed</key>
+		<string>Print Failed</string>
+		<key>PrintQuery</key>
+		<string>Print Query</string>
+		<key>PrintSucceed</key>
+		<string>Print Succeed</string>
+		<key>QueryBill</key>
+		<string>Check</string>
+		<key>QueryTitle</key>
+		<string>Ordered: %d     Total Price:$%.2f     Addtions Price:$%.2f</string>
+		<key>QueryTitle2</key>
+		<string>Ordered: %d     Total Price:$%.2f    Tab:%@</string>
+		<key>Price2</key>
+		<string>Price:%.2f</string>
+		<key>Price3</key>
+		<string>Price:%.2f%@</string>
+		<key>Send</key>
+		<string>Send</string>
+		<key>Send Failed</key>
+		<string>Send Failed</string>
+		<key>Send Succeed</key>
+		<string>Send Succeed</string>
+		<key>Send Now</key>
+		<string>Send Now</string>
+		<key>Send Hold</key>
+		<string>Send Hold</string>
+		<key>Send Order</key>
+		<string>Send Order</string>
+		<key>List Table</key>
+		<string>Table Inquiry</string>
+		<key>Subtotal</key>
+		<string>Subtotal</string>
+		<key>Total</key>
+		<string>Total</string>
+		<key>Unit</key>
+		<string>Unit</string>
+		<key>VALUE</key>
+		<string>VALUE</string>
+		<key>Value</key>
+		<string>Value</string>
+		<key>ManualInput</key>
+		<string>Manual Input</string>
+		<key>LogOut</key>
+		<string>Logout</string>
+		<key>LogIn</key>
+		<string>Login</string>
+		<key>OrderDishes</key>
+		<string>Order items</string>
+		<key>Search</key>
+		<string>Search</string>
+		<key>ServerSettings</key>
+		<string>Services</string>
+		<key>Please enter the ramadhin</key>
+		<string>Please enter the ramadhin</string>
+		<key>Please enter the account</key>
+		<string>Please Login</string>
+		<key>Food</key>
+		<string>Food</string>
+		<key>Menu</key>
+		<string>Menu</string>
+		<key>Are uploading Food</key>
+		<string>Uploading item</string>
+		<key>No out of stock ，Are uploading Food</key>
+		<string>No out of stock，uploading item</string>
+		<key>Order Succeeded</key>
+		<string>Order Sent</string>
+		<key>Search Table Failed</key>
+		<string>Search Table Failed</string>
+		<key>Without the permission</key>
+		<string>No permission</string>
+		<key>Table error</key>
+		<string>Table error</string>
+		<key>Delete</key>
+		<string>Delete</string>
+		<key>Details:</key>
+		<string>Details:</string>
+		<key>total2</key>
+		<string>Total:%.2f</string>
+		<key>Package Detail</key>
+		<string>Set Detail</string>
+		<key>Replaceable</key>
+		<string>Changeable</string>
+		<key>update</key>
+		<string>Update</string>
+		<key>Being updated recipe</key>
+		<string>Recipe updated</string>
+		<key>Update complete</key>
+		<string>Update complete</string>
+		<key>Service address</key>
+		<string>Service address</string>
+		<key>UserName</key>
+		<string>UserName</string>
+		<key>PassWord</key>
+		<string>Password</string>
+		<key>Port</key>
+		<string>Port</string>
+		<key>Whether need to send</key>
+		<string>Need sending</string>
+		<key>Whether the order login</key>
+		<string>Scan Barcode</string>
+		<key>Please enter the modify the content</key>
+		<string>Please enter modifier</string>
+		<key>restart</key>
+		<string>Setting complete, please restart cMenu APP to take effect.</string>
+		<key>Being updated</key>
+		<string>Being updated</string>
+		<key>get the order</key>
+		<string>get the order</string>
+		<key>Query the order failed</key>
+		<string>Query the order failed</string>
+		<key>Send Succeeded</key>
+		<string>Send Succeeded</string>
+		<key>Table could not be empty</key>
+		<string>Table could not be empty</string>
+		<key>addFood</key>
+		<string>addFood</string>
+		<key>Get ramadhin</key>
+		<string>Get ramadhin</string>
+		<key>Query Table Fail</key>
+		<string>Query Table Fail</string>
+		<key>Open Table success! OrderID</key>
+		<string>Open Table success! OrderID:%@</string>
+		<key>empty table</key>
+		<string>empty table</string>
+		<key>This with empty table</key>
+		<string>This with empty table, whether founding?</string>
+		<key>isCancel Table</key>
+		<string>Cancel Table？</string>
+		<key>YES</key>
+		<string>YES</string>
+		<key>NO</key>
+		<string>NO</string>
+		<key>Open Table</key>
+		<string>Open Table</string>
+		<key>Man</key>
+		<string>Man:</string>
+		<key>Woman</key>
+		<string>Woman:</string>
+		<key>People number</key>
+		<string>People:%@</string>
+		<key>empty</key>
+		<string>empty</string>
+		<key>Open table none food</key>
+		<string>Open table none food</string>
+		<key>Open table food</key>
+		<string>Open table food</string>
+		<key>Food full</key>
+		<string>Food full</string>
+		<key>The invoicing</key>
+		<string>The invoicing</string>
+		<key>Change Table</key>
+		<string>Change Table</string>
+		<key>Number of available</key>
+		<string>Number of available</string>
+		<key>sending food</key>
+		<string>sending food</string>
+		<key>isOpenTable</key>
+		<string>isOpenTable</string>
+		<key>number or password</key>
+		<string>Please enter a job number or password</string>
+		<key>prompt</key>
+		<string>prompt</string>
+		<key>Please set the server</key>
+		<string>Please set the server</string>
+		<key>equipment number</key>
+		<string>Please enter the equipment number</string>
+		<key>Login Successed</key>
+		<string>Login Successed</string>
+		<key>Registration failed</key>
+		<string>Registration failed</string>
+		<key>Logon failure</key>
+		<string>Logon failure</string>
+		<key>In the login</key>
+		<string>In the login...</string>
+		<key>Logout...</key>
+		<string>Logout...</string>
+		<key>No order</key>
+		<string>No order</string>
+		<key>physical code</key>
+		<string>Physical Code</string>
+		<key>equipment code</key>
+		<string>Equipment Code</string>
+		<key>Equipment registration</key>
+		<string>Equipment registration</string>
+		<key>Search Conform</key>
+		<string>%d  Search Conform</string>
+		<key>combine Table Succeed</key>
+		<string>Combine Table Succeed</string>
+		<key>combine Table Failed</key>
+		<string>Combine Table Failed</string>
+		<key>combine Table</key>
+		<string>Combine Table</string>
+		<key>major Table</key>
+		<string>Major Table:</string>
+		<key>minor Table</key>
+		<string>minor Table:</string>
+		<key>equipotential</key>
+		<string>equipotential</string>
+		<key>Push Food</key>
+		<string>Push Food</string>
+		<key>Elide Food</key>
+		<string>Elide Food</string>
+		<key>QueryTitle4</key>
+		<string>QueryTitle:%@</string>
+		<key>tableNum</key>
+		<string>tableNum:%@</string>
+		<key>allPrice</key>
+		<string>%@Food,%@Package,add:%@, addition:%@</string>
+		<key>sound</key>
+		<string>Whether to open the voice</string>
+		<key>Count1</key>
+		<string>Count:%@</string>
+		<key>addCount</key>
+		<string>allPrice:%.2f</string>
+		<key>sellout</key>
+		<string>sellout</string>
+		<key>addWait</key>
+		<string>addWait</string>
+		<key>phone</key>
+		<string>Phone</string>
+		<key>phone2:</key>
+		<string>Phone:</string>
+		<key>waitNum</key>
+		<string>waitNum</string>
+		<key>Wait</key>
+		<string>Wait</string>
+		<key>Message</key>
+		<string>Message</string>
+		<key>phone:</key>
+		<string>phone:</string>
+		<key>push</key>
+		<string>push</string>
+		<key>Being queried</key>
+		<string>Being queried...</string>
+		<key>WaitSuccess</key>
+		<string>OrderID：%@，Code：%@      是否预点餐</string>
+		<key>WaitSuccess1</key>
+		<string>WaitSuccess</string>
+		<key>Being Delete</key>
+		<string>Being Delete...</string>
+		<key>change order</key>
+		<string>If the bill does not have some dishes, to formal list</string>
+		<key>ChangeTable</key>
+		<string>ChangeTable</string>
+		<key>SuccessRefresh</key>
+		<string>Refresh...</string>
+		<key>Please enter the target ramadhin</key>
+		<string>Please enter the target ramadhin</string>
+		<key>Wait order details</key>
+		<string>Wait order details</string>
+		<key>The permanent Table</key>
+		<string>permanent Table</string>
+		<key>Phone and table could not be empty</key>
+		<string>Phone and table could not be empty</string>
+		<key>phone and people could not be empty</key>
+		<string>phone and people could not be empty</string>
+		<key>people could not be empty</key>
+		<string>people could not be empty</string>
+		<key>Phone error</key>
+		<string>Phone error</string>
+		<key>phone could not be empty</key>
+		<string>phone could not be empty</string>
+		<key>network connection timeout</key>
+		<string>network connection timeout</string>
+		<key>network timeout</key>
+		<string>The IP address of the network connection timeout, please test equipment is correct</string>
+		<key>Server timeout</key>
+		<string>Server timeout</string>
+		<key>Network link error</key>
+		<string>Network link error</string>
+		<key>server not open</key>
+		<string>The server did not open it</string>
+		<key>More words</key>
+		<string>More than words can&apos;t input the largest</string>
+		<key>number zero</key>
+		<string>The total number must be greater than zero</string>
+		<key>The same as the target the same not the same</key>
+		<string>The same as the target the same not the same</string>
+		<key>Master station and vice same not the same</key>
+		<string>Master station and vice same not the same</string>
+		<key>Maximum input 10</key>
+		<string>Maximum input 10</string>
+		<key>Didn&apos;t have some food</key>
+		<string>Didn&apos;t have some food</string>
+		<key>Cross food quantity</key>
+		<string>Cross food quantity</string>
+		<key>Most strokes vegetables</key>
+		<string>Most strokes vegetables %d copies</string>
+		<key>The total number of not greater than 99</key>
+		<string>The total number of not greater than 99</string>
+		<key>Version updated FTP synchronize data</key>
+		<string>Version of the data has been updated, whether to FTP synchronize data</string>
+		<key>Update the version number failed</key>
+		<string>Update the version number failed</string>
+		<key>version number</key>
+		<string>version number</string>
+		<key>order not food</key>
+		<string>order not food</string>
+		<key>Too many to send</key>
+		<string>Too many to send</string>
+		<key>reCallElide</key>
+		<string>reCallElide</string>
+		<key>Special note</key>
+		<string>Special note：</string>
+		<key>Please enter the second unit</key>
+		<string>Please enter the second unit</string>
+		<key>The second unit are not increased in the food</key>
+		<string>The second unit are not increased in the food</string>
+		<key>chuck</key>
+		<string>chuck</string>
+		<key>user code</key>
+		<string>user code:</string>
+		<key>settleaccount</key>
+		<string>settleaccount</string>
+		<key>VIP</key>
+		<string>VIP</string>
+		<key>momey</key>
+		<string>momey</string>
+		<key>bank card</key>
+		<string>bank card</string>
+		<key>favorable</key>
+		<string>favorable</string>
+		<key>print</key>
+		<string>print</string>
+		<key>FoodCache</key>
+		<string>FoodCache</string>
+		<key>boark</key>
+		<string>boark</string>
+		<key>refresh</key>
+		<string>refresh</string>
+	</dict>
+	<key>Language</key>
+	<string>Chinese</string>
+	<key>Traditional</key>
+	<dict>
+		<key>Additions</key>
+		<string>附加項</string>
+		<key>Additions:</key>
+		<string>附加項:</string>
+		<key>AdditionsConfiguration</key>
+		<string>附加項設置</string>
+		<key>Back</key>
+		<string>返回</string>
+		<key>Change Table Failed</key>
+		<string>換台失敗</string>
+		<key>Change Table Succeed</key>
+		<string>換台成功</string>
+		<key>Cancel</key>
+		<string>取消</string>
+		<key>ChuckFailed</key>
+		<string>退菜失敗</string>
+		<key>ChuckSucceed</key>
+		<string>退菜成功</string>
+		<key>Chuck</key>
+		<string>退菜</string>
+		<key>Common Additions</key>
+		<string>公共附加項</string>
+		<key>CommonAdditions:</key>
+		<string>公共附加項:</string>
+		<key>Count</key>
+		<string>數量</string>
+		<key>Count:</key>
+		<string>數量：</string>
+		<key>Date</key>
+		<string>日期</string>
+		<key>DATE</key>
+		<string>日期</string>
+		<key>DATE:</key>
+		<string>日期: %@</string>
+		<key>Date:</key>
+		<string>日期:</string>
+		<key>Table Operation</key>
+		<string>台位操作</string>
+		<key>DeleteAll</key>
+		<string>刪除所有</string>
+		<key>Detail</key>
+		<string>詳情</string>
+		<key>Edit</key>
+		<string>編輯</string>
+		<key>EditAdditions</key>
+		<string>編輯附加項</string>
+		<key>Error</key>
+		<string>錯誤</string>
+		<key>Food Ordered</key>
+		<string>菜品已經被添加</string>
+		<key>Table</key>
+		<string>台位</string>
+		<key>List Table</key>
+		<string>查詢台位</string>
+		<key>FoodName</key>
+		<string>品名</string>
+		<key>Gogo</key>
+		<string>催菜</string>
+		<key>GogoAlert</key>
+		<string>請選擇要催的菜!</string>
+		<key>User:</key>
+		<string>工號:</string>
+		<key>Password:</key>
+		<string>密碼:</string>
+		<key>Area:</key>
+		<string>區域:</string>
+		<key>People:</key>
+		<string>人數:</string>
+		<key>Floor:</key>
+		<string>樓層:</string>
+		<key>Reason:</key>
+		<string>原因:</string>
+		<key>GogoFailed</key>
+		<string>催菜失敗</string>
+		<key>GogoSucceed</key>
+		<string>催菜成功</string>
+		<key>Info</key>
+		<string>資料</string>
+		<key>LangCode</key>
+		<string>tw</string>
+		<key>LanguageChangedMessage</key>
+		<string>語言被更改,cMenu即將關閉以使更改生效，請重新打開cMenu.</string>
+		<key>LanguageChangedTitle</key>
+		<string>cMenu即將關閉</string>
+		<key>NoEntry</key>
+		<string>抱歉,沒有可用內容</string>
+		<key>Type:</key>
+		<string>類型:</string>
+		<key>Print</key>
+		<string>列印</string>
+		<key>QUERY</key>
+		<string>查詢單</string>
+		<key>Print Query Succeed</key>
+		<string>列印查詢單成功</string>
+		<key>Send Suceeded</key>
+		<string>發送成功</string>
+		<key>Send Failed</key>
+		<string>發送失敗</string>
+		<key>Area</key>
+		<string>區域</string>
+		<key>Status</key>
+		<string>狀態</string>
+		<key>Table:</key>
+		<string>台位:</string>
+		<key>Floor</key>
+		<string>樓層</string>
+		<key>All</key>
+		<string>全部</string>
+		<key>TAB</key>
+		<string>結賬單</string>
+		<key>ACCOUNT</key>
+		<string>自動列印查詢單</string>
+		<key>Send Now</key>
+		<string>即起發送</string>
+		<key>Send Order</key>
+		<string>發送菜品</string>
+		<key>Send Hold</key>
+		<string>叫起發送</string>
+		<key>Change Table</key>
+		<string>換台</string>
+		<key>NoFoodOrderedAlert</key>
+		<string>沒有已點菜品，請先點菜再發送菜品</string>
+		<key>NoFoodToChuckAlert</key>
+		<string>請選擇要退的菜!</string>
+		<key>OK</key>
+		<string>確定</string>
+		<key>User and Password could not be empty</key>
+		<string>工號和密碼不能為空</string>
+		<key>User and Table could not be empty</key>
+		<string>工號和台號不能為空</string>
+		<key>User could not be empty</key>
+		<string>工號不能為空</string>
+		<key>Please type again and retry</key>
+		<string>請重新輸入後重試</string>
+		<key>OrderedFood</key>
+		<string>已點菜品</string>
+		<key>From Table:</key>
+		<string>當前台位:</string>
+		<key>Cancel Table</key>
+		<string>取消開台</string>
+		<key>Cancel Table Succeed</key>
+		<string>取消開台成功</string>
+		<key>Cancel Table Failed</key>
+		<string>取消開台失敗</string>
+		<key>To Table:</key>
+		<string>目標台位:</string>
+		<key>Price</key>
+		<string>價格</string>
+		<key>PrintFailed</key>
+		<string>單據列印失敗</string>
+		<key>PrintQuery</key>
+		<string>列印單據</string>
+		<key>PrintSucceed</key>
+		<string>單據列印成功</string>
+		<key>QueryBill</key>
+		<string>查詢賬單</string>
+		<key>QueryTitle</key>
+		<string>共點菜品: %d 道      總計:  ￥%.2f</string>
+		<key>QueryTitle2</key>
+		<string>共點菜品: %d 道      總計:  ￥%.2f    賬單號:%@</string>
+		<key>Price2</key>
+		<string>價格:%.2f</string>
+		<key>Price3</key>
+		<string>價格:%.2f%@</string>
+		<key>Send</key>
+		<string>發送</string>
+		<key>Subtotal</key>
+		<string>小計</string>
+		<key>Total</key>
+		<string>總共</string>
+		<key>Unit</key>
+		<string>單位</string>
+		<key>ManualInput</key>
+		<string>手動輸入</string>
+		<key>OrderDishes</key>
+		<string>點菜</string>
+		<key>LogOut</key>
+		<string>注銷當前用戶</string>
+		<key>LogIn</key>
+		<string>登陸</string>
+		<key>Search</key>
+		<string>查詢</string>
+		<key>ServerSettings</key>
+		<string>服務器設置</string>
+		<key>Please enter the ramadhin</key>
+		<string>請輸入桌號</string>
+		<key>Please enter the account</key>
+		<string>請先登錄</string>
+		<key>Food</key>
+		<string>已點菜品</string>
+		<key>Menu</key>
+		<string>菜單</string>
+		<key>Are uploading Food</key>
+		<string>正在上傳菜品</string>
+		<key>No out of stock ，Are uploading Food</key>
+		<string>菜品沒有沽清，正在上傳菜品</string>
+		<key>Order Succeeded</key>
+		<string>添加成功</string>
+		<key>Search Table Failed</key>
+		<string>查詢台位失敗</string>
+		<key>Without the permission</key>
+		<string>無此權限</string>
+		<key>Table error</key>
+		<string>台號錯誤</string>
+		<key>Delete</key>
+		<string>刪除</string>
+		<key>Details:</key>
+		<string>詳細:</string>
+		<key>total2</key>
+		<string>合計:%.2f</string>
+		<key>Package Detail</key>
+		<string>套餐詳細</string>
+		<key>Replaceable</key>
+		<string>可更換菜品明細</string>
+		<key>update</key>
+		<string>更新</string>
+		<key>Being updated recipe</key>
+		<string>正在更新菜譜</string>
+		<key>Update complete</key>
+		<string>更新完成</string>
+		<key>Service address</key>
+		<string>服務器地址</string>
+		<key>UserName</key>
+		<string>用戶名</string>
+		<key>PassWord</key>
+		<string>密碼</string>
+		<key>Port</key>
+		<string>端口</string>
+		<key>Whether need to send</key>
+		<string>是否需要發送</string>
+		<key>Whether the order login</key>
+		<string>是否賬單登陸</string>
+		<key>Please enter the modify the content</key>
+		<string>請輸入修改內容</string>
+		<key>restart</key>
+		<string>設置成功！重啓程序後生效！</string>
+		<key>Being updated</key>
+		<string>正在更新</string>
+		<key>get the order</key>
+		<string>正在獲取訂單</string>
+		<key>Query the order failed</key>
+		<string>查詢賬單失敗</string>
+		<key>Send Succeeded</key>
+		<string>發送成功</string>
+		<key>Table could not be empty</key>
+		<string>台號不能爲空</string>
+		<key>addFood</key>
+		<string>加菜</string>
+		<key>Get ramadhin</key>
+		<string>正在獲取台位</string>
+		<key>Query Table Fail</key>
+		<string>查詢台位失敗</string>
+		<key>Open Table success! OrderID</key>
+		<string>開台成功，賬單流水號爲：%@</string>
+		<key>empty table</key>
+		<string>空台</string>
+		<key>This with empty table</key>
+		<string>此台位是空台，是否開台？</string>
+		<key>isCancel Table</key>
+		<string>是否取消開台？</string>
+		<key>YES</key>
+		<string>是</string>
+		<key>NO</key>
+		<string>否</string>
+		<key>Open Table</key>
+		<string>開台</string>
+		<key>Man</key>
+		<string>先生：</string>
+		<key>Woman</key>
+		<string>女士：</string>
+		<key>People number</key>
+		<string>就餐人數：%@</string>
+		<key>empty</key>
+		<string>空閑</string>
+		<key>Open table none food</key>
+		<string>開台未點</string>
+		<key>Open table food</key>
+		<string>開台已點</string>
+		<key>Food full</key>
+		<string>菜齊</string>
+		<key>The invoicing</key>
+		<string>結賬</string>
+		<key>Number of available</key>
+		<string>可售數量</string>
+		<key>sending food</key>
+		<string>正在發送菜品</string>
+		<key>isOpenTable</key>
+		<string>請確認是否開台</string>
+		<key>number or password</key>
+		<string>請輸入完整的“員工編號”和“密碼”</string>
+		<key>prompt</key>
+		<string>提示</string>
+		<key>Please set the server</key>
+		<string>請設置服務器</string>
+		<key>equipment number</key>
+		<string>請輸入設備編號</string>
+		<key>Login Successed</key>
+		<string>登陸成功</string>
+		<key>Registration failed</key>
+		<string>注冊失敗</string>
+		<key>Logon failure</key>
+		<string>登陸失敗</string>
+		<key>In the login</key>
+		<string>正在登陸...</string>
+		<key>Logout...</key>
+		<string>正在注銷...</string>
+		<key>No order</key>
+		<string>沒有賬單</string>
+		<key>physical code</key>
+		<string>物理編號</string>
+		<key>equipment code</key>
+		<string>設備編號</string>
+		<key>Equipment registration</key>
+		<string>設備註冊</string>
+		<key>Search Conform</key>
+		<string>共%d個符合條件</string>
+		<key>combine Table Succeed</key>
+		<string>並台成功</string>
+		<key>combine Table Failed</key>
+		<string>並台失敗</string>
+		<key>combine Table</key>
+		<string>並台</string>
+		<key>major Table</key>
+		<string>主台位:</string>
+		<key>minor Table</key>
+		<string>副台位:</string>
+		<key>equipotential</key>
+		<string>等位</string>
+		<key>Push Food</key>
+		<string>催菜</string>
+		<key>Elide Food</key>
+		<string>劃菜</string>
+		<key>QueryTitle4</key>
+		<string>賬單號:%@</string>
+		<key>tableNum</key>
+		<string>桌號:%@</string>
+		<key>allPrice</key>
+		<string>%@單品,%@套餐,共計:%@,附加項:%@</string>
+		<key>sound</key>
+		<string>是否開啓聲音</string>
+		<key>Count1</key>
+		<string>數量：%@</string>
+		<key>addCount</key>
+		<string>共計：%.2f</string>
+		<key>sellout</key>
+		<string>沽清</string>
+		<key>addWait</key>
+		<string>添加</string>
+		<key>phone</key>
+		<string>手機號碼</string>
+		<key>phone2:</key>
+		<string>手機號碼:</string>
+		<key>waitNum</key>
+		<string>等位編號</string>
+		<key>Wait</key>
+		<string>等位預點</string>
+		<key>Message</key>
+		<string>消息</string>
+		<key>phone:</key>
+		<string>手機：</string>
+		<key>push</key>
+		<string>正在催菜</string>
+		<key>Being queried</key>
+		<string>正在查詢...</string>
+		<key>WaitSuccess</key>
+		<string>賬單號：%@，等位序號：%@     是否預點餐</string>
+		<key>WaitSuccess1</key>
+		<string>預定成功</string>
+		<key>Being Delete</key>
+		<string>正在刪除...</string>
+		<key>change order</key>
+		<string>該賬單沒有預點菜品，是否轉爲正式單</string>
+		<key>ChangeTable</key>
+		<string>預定台位轉台</string>
+		<key>SuccessRefresh</key>
+		<string>成功！正在刷新</string>
+		<key>Please enter the target ramadhin</key>
+		<string>請輸入目標台位</string>
+		<key>Wait order details</key>
+		<string>預點餐詳情</string>
+		<key>The permanent Table</key>
+		<string>轉正式台位</string>
+		<key>Phone and table could not be empty</key>
+		<string>手機號和桌號不能爲空</string>
+		<key>phone and people could not be empty</key>
+		<string>手機號和人數不能爲空</string>
+		<key>people could not be empty</key>
+		<string>人數不能爲空</string>
+		<key>Phone error</key>
+		<string>手機號錯誤</string>
+		<key>phone could not be empty</key>
+		<string>手機號不能爲空</string>
+		<key>network connection timeout</key>
+		<string>網絡連接超時</string>
+		<key>network timeout</key>
+		<string>網絡連接超時,請檢驗設備的IP地址是否設置正確</string>
+		<key>Server timeout</key>
+		<string>服務器超時</string>
+		<key>Network link error</key>
+		<string>請檢查網絡鏈接或ftp設置是否正確</string>
+		<key>server not open</key>
+		<string>IPAD服務耑未開啟</string>
+		<key>More words</key>
+		<string>超過最大字數不能輸入了</string>
+		<key>number zero</key>
+		<string>總人數必鬚大於0</string>
+		<key>The same as the target the same not the same</key>
+		<string>當前檯位與目標檯位不能相同</string>
+		<key>Master station and vice same not the same</key>
+		<string>主檯位和副檯位不能相同</string>
+		<key>Maximum input 10</key>
+		<string>最大隻能輸入10位</string>
+		<key>Didn&apos;t have some food</key>
+		<string>沒有已點菜品</string>
+		<key>Cross food quantity</key>
+		<string>劃菜數量</string>
+		<key>Most strokes vegetables</key>
+		<string>最多可劃%d份</string>
+		<key>The total number of not greater than 99</key>
+		<string>總人數不能大于99</string>
+		<key>Version updated FTP synchronize data</key>
+		<string>數據版本已更新，是否FTP同步數據</string>
+		<key>Update the version number failed</key>
+		<string>更新版本號失敗</string>
+		<key>version number</key>
+		<string>版本號</string>
+		<key>order not food</key>
+		<string>該賬單沒有點菜</string>
+		<key>Too many to send</key>
+		<string>發送菜品數量過多，請分開發送</string>
+		<key>reCallElide</key>
+		<string>反劃</string>
+		<key>Special note</key>
+		<string>特別備注：</string>
+		<key>Please enter the second unit</key>
+		<string>請輸入第二單位</string>
+		<key>The second unit are not increased in the food</key>
+		<string>第二單位菜品不能在此改變份數</string>
+		<key>chuck</key>
+		<string>退菜</string>
+		<key>user code</key>
+		<string>授權工號:</string>
+		<key>settleaccount</key>
+		<string>預結算</string>
+		<key>VIP</key>
+		<string>會員</string>
+		<key>momey</key>
+		<string>現金</string>
+		<key>bank card</key>
+		<string>銀行卡</string>
+		<key>favorable</key>
+		<string>優惠方式</string>
+		<key>print</key>
+		<string>打印</string>
+		<key>FoodCache</key>
+		<string>菜品緩存</string>
+		<key>boark</key>
+		<string>銷售看板</string>
+		<key>refresh</key>
+		<string>刷新</string>
+	</dict>
+</dict>
+</plist>
