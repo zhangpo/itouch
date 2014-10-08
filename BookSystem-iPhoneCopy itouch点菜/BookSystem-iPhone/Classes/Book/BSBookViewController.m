@@ -1055,6 +1055,14 @@ static bool boolSearch = NO;
     float detailPrice = [self _tcAddDetailPrice:[info objectForKey:@"foods"]];//计算默认的详细菜品的总价格
     //    NSString *tcdetailPrice = [NSString stringWithFormat:@"%.1f",detailPrice];
     float tcPrice = [[info objectForKey:@"PRICE"] floatValue];
+//    float tcPrice = [[info objectForKey:@"PRICE"] floatValue];
+    //    float tcMoney=[[[_selectArray lastObject] objectForKey:@"PRICE"] floatValue];
+    for (NSDictionary *dict in [info objectForKey:@"foods"]) {
+        if ([[dict objectForKey:@"NADJUSTPRICE"] floatValue]>0) {
+            tcPrice+=[[dict objectForKey:@"NADJUSTPRICE"] floatValue]*[[dict objectForKey:@"total"] floatValue];
+        }
+    }
+    [info setObject:[NSNumber numberWithFloat:tcPrice] forKey:@"PRICE"];
     float TCZZPirce;
     NSMutableArray *aryDetailFood = nil;
     if ([tc isEqualToString:@"1"]) {  //方式一

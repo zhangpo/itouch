@@ -166,6 +166,7 @@
 		1BFDC0ED18868DC6004EBBCD /* butSearch@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BFDC0EB18868DC6004EBBCD /* butSearch@2x.png */; };
 		1BFDC0EE18868DC6004EBBCD /* butSearch.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BFDC0EC18868DC6004EBBCD /* butSearch.png */; };
 		1E202B36198B1A9400122E76 /* BSNewBookCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E202B35198B1A9400122E76 /* BSNewBookCell.m */; };
+		1E43812619E4488A006B27D0 /* BSLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E43812519E4488A006B27D0 /* BSLogo.png */; };
 		1E69C95F199309FB000AA45B /* MMDrawerBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E69C955199309FB000AA45B /* MMDrawerBarButtonItem.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		1E69C960199309FB000AA45B /* MMDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E69C957199309FB000AA45B /* MMDrawerController.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		1E69C961199309FB000AA45B /* MMDrawerVisualState.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E69C959199309FB000AA45B /* MMDrawerVisualState.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
@@ -272,7 +273,6 @@
 		F146F46816681FA000EDA96A /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F146F46716681F9F00EDA96A /* CFNetwork.framework */; };
 		F146F46A16681FC000EDA96A /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F146F46916681FC000EDA96A /* QuartzCore.framework */; };
 		F146F46C166820E500EDA96A /* BSDataProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = F146F46B166820E500EDA96A /* BSDataProvider.m */; };
-		F155AEB116611C3C009EF595 /* BSLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = F155AEAF16611C3C009EF595 /* BSLogo.png */; };
 		F155AEB216611C3C009EF595 /* BSLogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F155AEB016611C3C009EF595 /* BSLogo@2x.png */; };
 		F155AEC216611D0E009EF595 /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = F155AEB516611D0E009EF595 /* NSData+Base64.m */; };
 		F155AEC316611D0E009EF595 /* NSDictionary+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = F155AEB716611D0E009EF595 /* NSDictionary+Extensions.m */; };
@@ -610,6 +610,7 @@
 		1BFDC0EC18868DC6004EBBCD /* butSearch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = butSearch.png; sourceTree = "<group>"; };
 		1E202B34198B1A9400122E76 /* BSNewBookCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSNewBookCell.h; sourceTree = "<group>"; };
 		1E202B35198B1A9400122E76 /* BSNewBookCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSNewBookCell.m; sourceTree = "<group>"; };
+		1E43812519E4488A006B27D0 /* BSLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BSLogo.png; sourceTree = "<group>"; };
 		1E69C954199309FB000AA45B /* MMDrawerBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMDrawerBarButtonItem.h; sourceTree = "<group>"; };
 		1E69C955199309FB000AA45B /* MMDrawerBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMDrawerBarButtonItem.m; sourceTree = "<group>"; };
 		1E69C956199309FB000AA45B /* MMDrawerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMDrawerController.h; sourceTree = "<group>"; };
@@ -735,7 +736,6 @@
 		F146F46716681F9F00EDA96A /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		F146F46916681FC000EDA96A /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		F146F46B166820E500EDA96A /* BSDataProvider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSDataProvider.m; sourceTree = "<group>"; };
-		F155AEAF16611C3C009EF595 /* BSLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BSLogo.png; sourceTree = "<group>"; };
 		F155AEB016611C3C009EF595 /* BSLogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BSLogo@2x.png"; sourceTree = "<group>"; };
 		F155AEB416611D0E009EF595 /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
 		F155AEB516611D0E009EF595 /* NSData+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Base64.m"; sourceTree = "<group>"; };
@@ -1473,7 +1473,7 @@
 				F155AEDD16612DF4009EF595 /* BSIconStatistics@2x.png */,
 				F155AECC166125C7009EF595 /* BSLoginButtonBG.png */,
 				F155AECD166125C7009EF595 /* BSLoginButtonBG@2x.png */,
-				F155AEAF16611C3C009EF595 /* BSLogo.png */,
+				1E43812519E4488A006B27D0 /* BSLogo.png */,
 				F155AEB016611C3C009EF595 /* BSLogo@2x.png */,
 			);
 			path = images;
@@ -1748,11 +1748,6 @@
 			attributes = {
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Stan Wu";
-				TargetAttributes = {
-					F13209D01657D4C90031E7C7 = {
-						DevelopmentTeam = L5UVC5G98V;
-					};
-				};
 			};
 			buildConfigurationList = F13209CB1657D4C90031E7C7 /* Build configuration list for PBXProject "BookSystem-iPhone" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1778,7 +1773,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F13209E01657D4C90031E7C7 /* InfoPlist.strings in Resources */,
-				F155AEB116611C3C009EF595 /* BSLogo.png in Resources */,
 				F155AEB216611C3C009EF595 /* BSLogo@2x.png in Resources */,
 				F155AECE166125C7009EF595 /* BSLoginButtonBG.png in Resources */,
 				F155AECF166125C7009EF595 /* BSLoginButtonBG@2x.png in Resources */,
@@ -1818,6 +1812,7 @@
 				F146F44E1667F41400EDA96A /* BSNavBack.png in Resources */,
 				1BC09A54186049A6006E0550 /* qiehuan.png in Resources */,
 				F146F44F1667F41400EDA96A /* BSNavBack@2x.png in Resources */,
+				1E43812619E4488A006B27D0 /* BSLogo.png in Resources */,
 				F146F4501667F41400EDA96A /* BSTabSelected.png in Resources */,
 				F146F4511667F41400EDA96A /* BSTabSelected@2x.png in Resources */,
 				F146F46516681EE100EDA96A /* SVProgressHUD.bundle in Resources */,
@@ -2162,8 +2157,8 @@
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hangyuntian (Beijing) Technology Co., Ltd";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hangyuntian (Beijing) Technology Co., Ltd";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -2178,7 +2173,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "ABF3E1DF-C30C-4603-82AB-ACC1ACC171EA";
+				PROVISIONING_PROFILE = "6C682208-132D-410E-8AB6-D01BB8A8987C";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -2192,8 +2187,8 @@
 				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hangyuntian (Beijing) Technology Co., Ltd";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hangyuntian (Beijing) Technology Co., Ltd";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -2201,7 +2196,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "ABF3E1DF-C30C-4603-82AB-ACC1ACC171EA";
+				PROVISIONING_PROFILE = "6C682208-132D-410E-8AB6-D01BB8A8987C";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -2213,8 +2208,8 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_OBJC_ARC = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hangyuntian (Beijing) Technology Co., Ltd";
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BookSystem-iPhone/BookSystem-iPhone-Prefix.pch";
@@ -2231,7 +2226,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4E2D7EAD-132F-4878-88CB-A2484B087B5E";
+				PROVISIONING_PROFILE = "6C682208-132D-410E-8AB6-D01BB8A8987C";
 				TARGETED_DEVICE_FAMILY = 1;
 				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
@@ -2244,8 +2239,8 @@
 				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
 				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_OBJC_ARC = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Beijing Choice Century Seience Technology Co., Ltd.";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Hangyuntian (Beijing) Technology Co., Ltd";
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BookSystem-iPhone/BookSystem-iPhone-Prefix.pch";
@@ -2262,7 +2257,7 @@
 				);
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4E2D7EAD-132F-4878-88CB-A2484B087B5E";
+				PROVISIONING_PROFILE = "6C682208-132D-410E-8AB6-D01BB8A8987C";
 				TARGETED_DEVICE_FAMILY = 1;
 				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;

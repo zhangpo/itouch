@@ -617,7 +617,7 @@ NSInteger intSort2(id num1,id num2,void *context){
     
     if (sqlite3_open([path UTF8String], &db)==SQLITE_OK){
 //        sqlcmd = [NSString stringWithFormat:@"select * from food where %@ ORDER BY class ASC",cmd];
-        sqlcmd = [NSString stringWithFormat:@"select * from food where %@",cmd];
+        sqlcmd = [NSString stringWithFormat:@"select m.name as UNIT,m1.name as UNIT2,m2.name as UNIT3,m3.name as UNIT4,m4.name as UNIT5,f.ITCODE,f.DES,f.PRICE,f.PRICE2,f.PRICE3,f.PRICE4,picBig,picSmall,pap,INIT,ISTC,TCMONEYMODE,UNITCUR,CLASS from food f left join measdoc m on f.unit = m.code left join measdoc m1 on f.UNIT2 = m.code left join measdoc m2 on f.UNIT3 = m.code left join measdoc m3 on f.UNIT4 = m.code left join measdoc m4 on f.UNIT5 = m.code where %@",cmd];
         if (sqlite3_prepare_v2(db, [sqlcmd UTF8String], -1, &stat, nil)==SQLITE_OK){
             while (sqlite3_step(stat)==SQLITE_ROW) {
                 int count = sqlite3_column_count(stat);
